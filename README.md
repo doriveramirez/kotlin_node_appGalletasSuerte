@@ -6,6 +6,8 @@ I can't finish this app because I have an amd ryzen processor and Android Studio
 
 ![image](https://i.ibb.co/9GKH1XH/2.png)
 
-Anyways, the only thing that it lacks in the android app is the implementation of the /list system.
+Anyways, the only thing that it lacks in the android app is the implementation of the /list system, which is unfinished because I couldn't get it to work in these moment.
 
 Postman documentation: https://www.getpostman.com/collections/720d3d11bb179963e001
+
+There's various aspects in my app that my professor didn't explained in class, as the dialog alert, 
