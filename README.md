@@ -2,7 +2,7 @@
 
 Postman documentation: https://documenter.getpostman.com/view/8886235/SVmzvco7?version=latest
 
-Made in Android Studio (Gradle) &  Node.js (Server)
+Made in Android Studio (Kotlin) &  Node.js (Server)
 
 ![1](https://image.prntscr.com/image/TZN0HPqfQ7mAcfefKuFVsA.png)
 ![2](https://image.prntscr.com/image/XpWFWTadR4mujfwRkPXGog.png)
